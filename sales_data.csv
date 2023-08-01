@@ -1,0 +1,32 @@
+Date,Store_Location,Austrian_City,Customer_Name,Solar_Panel_Model,Solution_Type,Quantity,Total_Revenue
+2023-07-01,Wien,Vienna,Michael Schmidt,Crystalline Panel 100W,Residential,10,1500
+2023-07-02,Graz,Graz,Julia Maier,Crystalline Panel 100W,Residential,15,2250
+2023-07-03,Linz,Linz,Andreas Huber,Monocrystalline Panel 150W,Residential,8,1600
+2023-07-04,Salzburg,Salzburg,Lisa Mayer,Monocrystalline Panel 150W,Commercial,12,2400
+2023-07-05,Innsbruck,Innsbruck,Thomas Berger,Thin Film Panel 200W,Residential,5,1250
+2023-07-06,Klagenfurt,Klagenfurt,Sandra Lehner,Crystalline Panel 100W,Commercial,18,2700
+2023-07-07,Villach,Villach,Franz Fischer,Thin Film Panel 200W,Residential,10,2500
+2023-07-08,Wels,Wels,Karin Schneider,Crystalline Panel 100W,Residential,6,900
+2023-07-09,Sankt Pölten,St. Polten,Robert Bauer,Monocrystalline Panel 150W,Commercial,9,1800
+2023-07-10,Dornbirn,Dornbirn,Sabine Wagner,Crystalline Panel 100W,Residential,20,3000
+2023-07-11,Wien,Vienna,Lukas Wolf,Thin Film Panel 200W,Residential,12,3000
+2023-07-12,Graz,Graz,Anna Hofmann,Monocrystalline Panel 150W,Residential,15,3000
+2023-07-13,Linz,Linz,Markus Müller,Crystalline Panel 100W,Commercial,10,1500
+2023-07-14,Salzburg,Salzburg,Eva Schmidt,Thin Film Panel 200W,Residential,5,1250
+2023-07-15,Innsbruck,Innsbruck,Stefan Mayer,Monocrystalline Panel 150W,Residential,8,1600
+2023-07-16,Klagenfurt,Klagenfurt,Monika Huber,Crystalline Panel 100W,Commercial,12,1800
+2023-07-17,Villach,Villach,Andreas Fischer,Thin Film Panel 200W,Residential,7,1750
+2023-07-18,Wels,Wels,Julia Schneider,Crystalline Panel 100W,Residential,14,2100
+2023-07-19,Sankt Pölten,St. Polten,Nina Bauer,Thin Film Panel 200W,Commercial,9,2250
+2023-07-20,Dornbirn,Dornbirn,Paul Wagner,Crystalline Panel 100W,Residential,16,2400
+2023-07-21,Wien,Vienna,Lisa Wolf,Monocrystalline Panel 150W,Residential,11,2200
+2023-07-22,Graz,Graz,Michael Hofmann,Crystalline Panel 100W,Commercial,20,3000
+2023-07-23,Linz,Linz,Julia Müller,Thin Film Panel 200W,Residential,12,3000
+2023-07-24,Salzburg,Salzburg,Lukas Schmidt,Monocrystalline Panel 150W,Residential,15,3000
+2023-07-25,Innsbruck,Innsbruck,Sabine Mayer,Crystalline Panel 100W,Commercial,10,1500
+2023-07-26,Klagenfurt,Klagenfurt,Andreas Lehner,Thin Film Panel 200W,Residential,8,2000
+2023-07-27,Villach,Villach,Stefanie Fischer,Crystalline Panel 100W,Residential,7,1400
+2023-07-28,Wels,Wels,Michael Schneider,Thin Film Panel 200W,Commercial,6,1500
+2023-07-29,Sankt Pölten,St. Polten,Julia Bauer,Crystalline Panel 100W,Residential,12,1800
+2023-07-30,Dornbirn,Dornbirn,Thomas Wagner,Thin Film Panel 200W,Residential,8,2000
+2023-07-31,Wien,Vienna,Anna Wolf,Crystalline Panel 100W,Commercial,15,2250

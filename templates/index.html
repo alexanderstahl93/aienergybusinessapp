@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inventory Management and Sales Prediction</title>
+</head>
+<body>
+    <h1>Inventory Management and Sales Prediction</h1>
+
+    <!-- Display the demand forecast -->
+    <h2>Demand Forecast</h2>
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Forecasted Demand</th>
+        </tr>
+        {% for row in demand_forecast.iterrows() %}
+        <tr>
+            <td>{{ row[1]['date'] }}</td>
+            <td>{{ row[1]['mean'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <!-- Display the future sales prediction -->
+    <h2>Future Sales Prediction</h2>
+    <table>
+        <tr>
+            <th>Future Sales</th>
+        </tr>
+        {% for sales in future_sales %}
+        <tr>
+            <td>{{ sales }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <!-- Display customer segmentation data -->
+    <h2>Customer Segmentation</h2>
+    <table>
+        <tr>
+            <th>Customer ID</th>
+            <th>Age</th>
+            <th>Total Purchases</th>
+            <th>Cluster</th>
+            <th>Lifetime Value</th>
+        </tr>
+        {% for row in customer_data.iterrows() %}
+        <tr>
+            <td>{{ row[1]['customer_id'] }}</td>
+            <td>{{ row[1]['Age'] }}</td>
+            <td>{{ row[1]['Total_Purchases'] }}</td>
+            <td>{{ row[1]['Cluster'] }}</td>
+            <td>{{ row[1]['Lifetime_Value'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <!-- Add more sections to display data from other features if needed -->
+</body>
+</html>
