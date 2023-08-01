@@ -1,4 +1,4 @@
-# aienergybusinessapp
+# AI Powered Demand Forecasting for an B2C Solar Energy Company
 AI Powered Demand Forecasting for an B2C Solar Energy Company. 
 The scripts you've provided use a combination of machine learning (a subset of artificial intelligence) and data analysis techniques to perform various tasks related to business analytics and forecasting. 
 
@@ -23,7 +23,7 @@ This command tells Streamlit to run the app.py script, which in turn executes th
 After running the command, Streamlit will provide a local URL (usually http://localhost:8501) in the terminal. Open this URL in your web browser to view the dashboard.
 
 ## Explaination
-##### Inventory Management:
+### Inventory Management:
 This script loads inventory data and checks if the demand meets the reorder point to trigger a reorder. 
 It also plots the inventory levels over time, which can be used to visually monitor inventory status and identify any potential issues. 
 The inventory data, reorder dates, and the inventory plot are displayed under the "Inventory Management" section of the dashboard.
