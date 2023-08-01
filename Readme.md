@@ -2,6 +2,8 @@
 AI Powered Demand Forecasting for an B2C Solar Energy Company. 
 The scripts you've provided use a combination of machine learning (a subset of artificial intelligence) and data analysis techniques to perform various tasks related to business analytics and forecasting. 
 
+![Streamlit Dashboard](streamlit_dashboard.png)
+
 ## Environment Setup:
 Make sure you have Python installed on your system. You can download it from the official Python website. 
 The scripts provided here are compatible with Python 3.
